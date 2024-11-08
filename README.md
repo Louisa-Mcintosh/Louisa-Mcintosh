@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Louisa-Mcintosh
 - 👀 I’m interested in Bioinformatics and Health datascience
 - 🌱 I’m currently learning advanced level Python
-- 💞️ I’m looking to collaborate on Bioinformatic projects relating to healtcare data
+- 💞️ I’m looking to collaborate on Bioinformatic projects relating to healthcare data
 - 📫 How to reach me: Louisanatalie@hotmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: I enjoy DIY furniture building
